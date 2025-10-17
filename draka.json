@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Draka",
+  "updated": "2025-10-17",
+  "cables": [
+    {
+      "type": "EXQJ 3G6",
+      "area": 6,
+      "resistance": 3.08,
+      "reactance": 0.082
+    },
+    {
+      "type": "AXQJ 4G35",
+      "area": 35,
+      "resistance": 0.554,
+      "reactance": 0.078
+    },
+    {
+      "type": "EQLQ 3G4",
+      "area": 4,
+      "resistance": 4.61,
+      "reactance": 0.083
+    }
+  ]
+}
