@@ -1,0 +1,24 @@
+{
+  "manufacturer": "NKT",
+  "updated": "2025-10-17",
+  "cables": [
+    {
+      "type": "FXQJ 4G16",
+      "area": 16,
+      "resistance": 1.21,
+      "reactance": 0.080
+    },
+    {
+      "type": "EQLQ 3G2.5",
+      "area": 2.5,
+      "resistance": 7.41,
+      "reactance": 0.085
+    },
+    {
+      "type": "AXQJ 4G50",
+      "area": 50,
+      "resistance": 0.387,
+      "reactance": 0.075
+    }
+  ]
+}
