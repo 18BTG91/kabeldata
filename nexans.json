@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Nexans",
+  "updated": "2025-10-17",
+  "cables": [
+    {
+      "type": "AXQJ 4G25",
+      "area": 25,
+      "resistance": 0.780,
+      "reactance": 0.080
+    },
+    {
+      "type": "EQLQ 3G10",
+      "area": 10,
+      "resistance": 1.83,
+      "reactance": 0.075
+    },
+    {
+      "type": "AXQJ 4G95",
+      "area": 95,
+      "resistance": 0.193,
+      "reactance": 0.073
+    }
+  ]
+}
