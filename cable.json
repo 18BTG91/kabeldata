@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "updated": "2025-10-17",
+  "manufacturers": [
+    {
+      "name": "Nexans",
+      "url": "https://dittnamn.github.io/kabeldata/nexans.json"
+    },
+    {
+      "name": "NKT",
+      "url": "https://dittnamn.github.io/kabeldata/nkt.json"
+    },
+    {
+      "name": "Draka",
+      "url": "https://dittnamn.github.io/kabeldata/draka.json"
+    }
+  ]
+}
